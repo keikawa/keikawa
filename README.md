@@ -13,9 +13,9 @@ My research interests span a diverse range of fields, including integrated circu
 
 ### 🎓 Education
 
-- 2016-04-01 to 2020-03-31 : Tokyo University of Science, Noda, Chiba, Japan
-- 2020-04-01 to 2022-03-31 : Tokyo University of Science, Noda, Chiba, Japan
-- 2022-04-01 to present : Yokohama National University: Yokohama, Kanagawa, Japan
+- **2016-04-01 to 2020-03-31**: Bachelor's Degree in Electrical Engineering, Tokyo University of Science, Noda, Chiba, Japan
+- **2020-04-01 to 2022-03-31**: Master's Degree in Electrical Engineering, Tokyo University of Science, Noda, Chiba, Japan
+- **2022-04-01 to present**: Ph.D. in Progress, Yokohama National University, Yokohama, Kanagawa, Japan
 
 <!--
 **keikawa/keikawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
