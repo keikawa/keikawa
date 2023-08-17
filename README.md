@@ -35,7 +35,7 @@ Active balun converts single-ended signals to differential signals. A small chip
 
 <img src="https://github.com/keikawa/keikawa/assets/37934321/aa5208c0-3d57-4b71-93ee-fc7e6e1efe1f" alt="Differential Distributed Amplifier" height="180">
 
-Distributed amplifiers operate over a wide bandwidth ranging from DC to tens of gigahertz. The use of coupling inductors halves the area of differential distributed amplifiers. ([K. Kawahara et al., IEICE Trans. Electron., Article ID 2023MMP0006, Advance online publication, Apr. 2023.](https://doi.org/10.1587/transele.2023MMP0006))
+Distributed amplifiers operate over a wide bandwidth ranging from DC to tens of gigahertz. The use of coupling inductors halves the area of differential distributed amplifiers. ([K. Kawahara et al., IEICE Trans. Electron., Article ID 2023MMP0006, Apr. 2023.](https://doi.org/10.1587/transele.2023MMP0006))
 
 <!--
 **keikawa/keikawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
