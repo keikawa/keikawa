@@ -21,19 +21,19 @@ My research interests span a diverse range of fields, including integrated circu
 
 #### Image-Rejection Analog Multiplexer
 
-<img src="https://github.com/keikawa/keikawa/assets/37934321/0a788fc4-a56a-4eec-8b89-ca3c76d87f3c" alt="Analog Multiplexer (AMUX)" height="250">
+<img src="https://github.com/keikawa/keikawa/assets/37934321/0a788fc4-a56a-4eec-8b89-ca3c76d87f3c" alt="Analog Multiplexer (AMUX)" width="230">
 
 The image-rejection analog multiplexer extends signal bandwidth by three times through a combination of digital signal processing and analog multiplication. ([K. Kawahara et al.,	IEEE Trans. Microw. Theory Tech., vol. 71, no. 1, pp. 22–34, Jan. 2023.](https://doi.org/10.1109/TMTT.2022.3190480))
 
 #### Active Balun
 
-<img src="https://github.com/keikawa/keikawa/assets/37934321/9ee94376-df53-490d-bfb3-57a3276ce3f3" alt="Active Balun" height="200">
+<img src="https://github.com/keikawa/keikawa/assets/37934321/9ee94376-df53-490d-bfb3-57a3276ce3f3" alt="Active Balun" width="330">
 
 Active balun converts single-ended signals to differential signals. A small chip area and low imbalance characteristics over a wide bandwidth were demonstrated. ([K. Kawahara et al., IEEE Trans. Circuits Syst. I: Regul. Pap., vol. 70, no. 6, pp. 2317–2330, Jun. 2023.](https://doi.org/10.1109/TCSI.2023.3257089))
 
 #### Differential Distributed Amplifier
 
-<img src="https://github.com/keikawa/keikawa/assets/37934321/aa5208c0-3d57-4b71-93ee-fc7e6e1efe1f" alt="Differential Distributed Amplifier" height="180">
+<img src="https://github.com/keikawa/keikawa/assets/37934321/aa5208c0-3d57-4b71-93ee-fc7e6e1efe1f" alt="Differential Distributed Amplifier" width="260">
 
 Distributed amplifiers operate over a wide bandwidth ranging from DC to tens of gigahertz. The use of coupling inductors halves the area of differential distributed amplifiers. ([K. Kawahara et al., IEICE Trans. Electron., Article ID 2023MMP0006, Apr. 2023.](https://doi.org/10.1587/transele.2023MMP0006))
 
