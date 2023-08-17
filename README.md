@@ -29,13 +29,13 @@ The image-rejection analog multiplexer extends signal bandwidth by three times t
 
 <img src="https://github.com/keikawa/keikawa/assets/37934321/9ee94376-df53-490d-bfb3-57a3276ce3f3" alt="Active Balun" width="330">
 
-Active balun converts single-ended signals to differential signals. A small chip area and low imbalance characteristics over a wide bandwidth were demonstrated. ([K. Kawahara et al., IEEE Trans. Circuits Syst. I: Regul. Pap., vol. 70, no. 6, pp. 2317–2330, Jun. 2023.](https://doi.org/10.1109/TCSI.2023.3257089))
+The active balun converts single-ended signals to differential signals. A small chip area and low imbalance characteristics over a wide bandwidth were demonstrated. ([K. Kawahara et al., IEEE Trans. Circuits Syst. I: Regul. Pap., vol. 70, no. 6, pp. 2317–2330, Jun. 2023.](https://doi.org/10.1109/TCSI.2023.3257089))
 
 #### Differential Distributed Amplifier
 
 <img src="https://github.com/keikawa/keikawa/assets/37934321/aa5208c0-3d57-4b71-93ee-fc7e6e1efe1f" alt="Differential Distributed Amplifier" width="260">
 
-Distributed amplifiers operate over a wide bandwidth ranging from DC to tens of gigahertz. The use of coupling inductors halves the area of differential distributed amplifiers. ([K. Kawahara et al., IEICE Trans. Electron., Article ID 2023MMP0006, Apr. 2023.](https://doi.org/10.1587/transele.2023MMP0006))
+The distributed amplifiers operate over a wide bandwidth ranging from DC to tens of gigahertz. The use of coupling inductors halves the area of differential distributed amplifiers. ([K. Kawahara et al., IEICE Trans. Electron., Article ID 2023MMP0006, Apr. 2023.](https://doi.org/10.1587/transele.2023MMP0006))
 
 <!--
 **keikawa/keikawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
