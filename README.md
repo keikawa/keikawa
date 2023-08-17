@@ -11,11 +11,13 @@ My research interests span a diverse range of fields, including integrated circu
 - [IEEE Xplore](https://ieeexplore.ieee.org/author/37088532755)
 - [Thingiverse](https://www.thingiverse.com/keikawa/designs)
 
+<!--
 ### 🎓 Education
 
 - **2016-04-01 to 2020-03-31**: Bachelor's Degree in Electrical Engineering, Tokyo University of Science, Noda, Chiba, Japan
 - **2020-04-01 to 2022-03-31**: Master's Degree in Electrical Engineering, Tokyo University of Science, Noda, Chiba, Japan
 - **2022-04-01 to present**: Ph.D. in Progress, Yokohama National University, Yokohama, Kanagawa, Japan
+-->
 
 ### 🛠️ Chip Gallery
 
