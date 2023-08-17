@@ -1,7 +1,7 @@
 ### 👋 Hi there
 
 I am Keisuke Kawahara, a Ph.D. student at Yokohama National University, Japan.
-My research interests span a diverse range of fields, including integrated circuit design, silicon photonics, optical communication, microwave theory and circuitry, and signal processing.
+My interests include integrated circuit design, silicon photonics, optical communication, microwave theory and circuitry, and signal processing.
 
 ### 🔗 Social Link
 
