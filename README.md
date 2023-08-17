@@ -29,7 +29,7 @@ The image-rejection analog multiplexer extends signal bandwidth by three times t
 
 <img src="https://github.com/keikawa/keikawa/assets/37934321/9ee94376-df53-490d-bfb3-57a3276ce3f3" alt="Active Balun" height="200">
 
-Active balun converts single-ended signals to differential signals, demonstrating a tiny chip area of 0.0058 mm2 and low imbalance characteristics across a wide bandwidth. ([K. Kawahara et al., IEEE Trans. Circuits Syst. I: Regul. Pap., vol. 70, no. 6, pp. 2317–2330, Jun. 2023.](https://doi.org/10.1109/TCSI.2023.3257089))
+Active balun converts single-ended signals to differential signals. A small chip area and low imbalance characteristics over a wide bandwidth were demonstrated. ([K. Kawahara et al., IEEE Trans. Circuits Syst. I: Regul. Pap., vol. 70, no. 6, pp. 2317–2330, Jun. 2023.](https://doi.org/10.1109/TCSI.2023.3257089))
 
 #### Differential Distributed Amplifier
 
