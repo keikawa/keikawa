@@ -1,7 +1,7 @@
 ### 👋 Hi there
 
 I am Keisuke Kawahara, a Ph.D. student at Yokohama National University, Japan.
-My interests include integrated circuit design, silicon photonics, optical communication, microwave theory and circuitry, and signal processing.
+My interests include integrated circuit design, silicon photonics, optical communication, microwave theory, and signal processing.
 
 ### 🔗 Social Link
 
@@ -41,7 +41,7 @@ This distributed amplifier operates over a wide bandwidth ranging from DC to ten
 
 <img src="https://github.com/keikawa/keikawa/assets/37934321/48220bc9-70ce-4559-a445-4366c4f87275" alt="CMOS Temperature Sensor" width="260">
 
-This trimless temperature sensor circuit is based on an open source design rule and is freely reusable. ([GitHub Repository](https://github.com/keikawa/temperature-sensor-OpenRule1um))
+This trimless temperature sensor circuit is based on an open source design rule and is freely reusable. ([GitHub repository](https://github.com/keikawa/temperature-sensor-OpenRule1um).)
 
 #### Operational Amplifiers
 
