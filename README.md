@@ -35,7 +35,7 @@ This active balun converts single-ended signals to differential signals. A small
 
 <img src="https://github.com/keikawa/keikawa/assets/37934321/aa5208c0-3d57-4b71-93ee-fc7e6e1efe1f" alt="Differential Distributed Amplifier" width="230">
 
-This distributed amplifier operates over a wide bandwidth ranging from DC to tens of gigahertz. The use of coupling inductors halves the area of differential distributed amplifiers. ([K. Kawahara et al., IEICE Trans. Electron., Article ID 2023MMP0006, Apr. 2023.](https://doi.org/10.1587/transele.2023MMP0006))
+This distributed amplifier operates over a wide bandwidth ranging from DC to tens of gigahertz. The use of coupling inductors halves the area of differential distributed amplifiers. ([K. Kawahara et al., IEICE Trans. Electron., vol. E106.C, no. 11, pp. 669–676, Nov. 2023.](https://doi.org/10.1587/transele.2023MMP0006))
 
 #### Temperature Sensor
 
