@@ -41,15 +41,6 @@ The trimless temperature sensor is based on an open source design rule and is fr
 
 The class-AB CMOS operational amplifier consumes only 7.7 µA and has a slew rate of 1 V/µs for a 1-nF load. (Slides for [2021](https://www.ec.ict.e.titech.ac.jp/opamp/2021/contest-all-2021.pdf) and [2020](https://www.ec.ict.e.titech.ac.jp/opamp/2020/contest-all-2020.pdf).)
 
-### 🔗 Social Link
-
-- [Google Scholar](https://scholar.google.com/citations?user=6pVmiUwAAAAJ&hl=en&oi=sra)
-- [researchmap](https://researchmap.jp/keisuke-kawahara)
-- [ResearchGate](https://www.researchgate.net/profile/Keisuke-Kawahara-3)
-- [ORCID](https://orcid.org/0000-0003-1542-057X)
-- [IEEE Xplore](https://ieeexplore.ieee.org/author/37088532755)
-- [Thingiverse](https://www.thingiverse.com/keikawa/designs)
-
 <!--
 **keikawa/keikawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
