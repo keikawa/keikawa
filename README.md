@@ -5,9 +5,9 @@ My interests include integrated circuit design, silicon photonics, optical commu
 
 ### 🎓 Education
 
-- **2016-04-01 to 2020-03-31**: Bachelor's Degree in Electrical Engineering, Tokyo University of Science, Noda, Chiba, Japan
-- **2020-04-01 to 2022-03-31**: Master's Degree in Electrical Engineering, Tokyo University of Science, Noda, Chiba, Japan
-- **2022-04-01 to present**: Ph.D. in Progress, Yokohama National University, Yokohama, Kanagawa, Japan
+- **April 2016 – March 2020**: Bachelor of Electrical Engineering, Tokyo University of Science, Noda, Chiba, Japan
+- **April 2020 – March 2022**: Master of Electrical Engineering, Tokyo University of Science, Noda, Chiba, Japan
+- **April 2022 – present**: Ph.D. in Progress, Yokohama National University, Yokohama, Kanagawa, Japan
 
 ### 🛠️ Chip Gallery
 
