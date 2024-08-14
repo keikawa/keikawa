@@ -33,13 +33,13 @@ The distributed amplifier operates over a wide bandwidth ranging from DC to tens
 
 <img src="https://github.com/keikawa/keikawa/assets/37934321/48220bc9-70ce-4559-a445-4366c4f87275" alt="CMOS Temperature Sensor" width="260">
 
-The trimless temperature sensor is based on an open source design rule and is freely reusable. ([GitHub repository](https://github.com/keikawa/temperature-sensor-OpenRule1um).)
+The trimless temperature sensor is based on an open source design rule and is freely reusable. ([GitHub Repository](https://github.com/keikawa/temperature-sensor-OpenRule1um))
 
 #### Operational Amplifiers
 
 <img src="https://github.com/keikawa/keikawa/assets/37934321/bac48c37-9dc6-4ac8-a65d-e2768d07fd89" alt="CMOS Operational Amplifier" width="220">
 
-The class-AB CMOS operational amplifier consumes only 7.7 µA and has a slew rate of 1 V/µs for a 1-nF load. (Slides for [2021](https://www.ec.ict.e.titech.ac.jp/opamp/2021/contest-all-2021.pdf) and [2020](https://www.ec.ict.e.titech.ac.jp/opamp/2020/contest-all-2020.pdf).)
+The class-AB CMOS operational amplifier consumes only 7.7 µA and has a slew rate of 1 V/µs for a 1-nF load. (Slides for [2021](https://www.ec.ict.e.titech.ac.jp/opamp/2021/contest-all-2021.pdf) and [2020](https://www.ec.ict.e.titech.ac.jp/opamp/2020/contest-all-2020.pdf))
 
 <!--
 **keikawa/keikawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
