@@ -21,13 +21,13 @@ The image-rejection analog multiplexer extends signal bandwidth by three times t
 
 <img src="https://github.com/keikawa/keikawa/assets/37934321/9ee94376-df53-490d-bfb3-57a3276ce3f3" alt="Active Balun" width="300">
 
-The active balun converts single-ended signals to differential signals. A small chip area and low imbalance characteristics over a wide bandwidth were demonstrated. ([📑IEEE TCAS-I](https://doi.org/10.1109/TCSI.2023.3257089)) ([📑IEEE MWSCAS](http://dx.doi.org/10.1109/MWSCAS47672.2021.9531759))
+The active balun converts single-ended signals to differential signals, demonstrating both a compact area and minimal imbalance. ([📑IEEE TCAS-I](https://doi.org/10.1109/TCSI.2023.3257089)) ([📑IEEE MWSCAS](http://dx.doi.org/10.1109/MWSCAS47672.2021.9531759))
 
 #### Distributed Amplifier
 
 <img src="https://github.com/keikawa/keikawa/assets/37934321/aa5208c0-3d57-4b71-93ee-fc7e6e1efe1f" alt="Differential Distributed Amplifier" width="230">
 
-The distributed amplifier operates over a wide bandwidth ranging from DC to tens of gigahertz. The use of coupling inductors halves the area of differential distributed amplifiers. ([📑IEICE TREL](http://dx.doi.org/10.1587/transele.2023MMP0006)) ([📑IEEE ISCAS](http://dx.doi.org/10.1109/ISCAS51556.2021.9401302))
+Coupled inductors halve the area of the differential distributed amplifier and enable the amplification of differential signals over several tens of GHz. ([📑IEICE TREL](http://dx.doi.org/10.1587/transele.2023MMP0006)) ([📑IEEE ISCAS](http://dx.doi.org/10.1109/ISCAS51556.2021.9401302))
 
 #### Temperature Sensor
 
