@@ -11,7 +11,7 @@ My interests include integrated circuit design, silicon photonics, optical commu
 
 ### 🛠️ Chip Gallery
 
-#### Si Phtonic Crystal Modulator
+#### Si Photonic Crystal Modulator
 
 <img src="https://github.com/user-attachments/assets/197a75e0-2dc5-4175-83d3-11f1a744abf7" alt="Si Photonic Crystal Modulator" width="150">
 
