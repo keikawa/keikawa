@@ -21,7 +21,7 @@ The photonic crystal slow-light modulator delivers high speed and low power diss
 
 <img src="https://github.com/keikawa/keikawa/assets/37934321/0a788fc4-a56a-4eec-8b89-ca3c76d87f3c" alt="Analog Multiplexer (AMUX)" width="200">
 
-The image-rejection analog multiplexer increases signal bandwidth threefold by combining digital signal processing with analog multiplication. ([📑IEEE T-MTT](https://doi.org/10.1109/TMTT.2022.3190480)) ([📑IEEE RWS](http://dx.doi.org/10.1109/RWS53089.2022.9719979))
+The image-rejection analog multiplexer increases signal bandwidth threefold by digital signal processing and analog multiplication. ([📑IEEE T-MTT](https://doi.org/10.1109/TMTT.2022.3190480)) ([📑IEEE RWS](http://dx.doi.org/10.1109/RWS53089.2022.9719979))
 
 #### Active Balun
 
