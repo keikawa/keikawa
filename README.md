@@ -3,12 +3,6 @@
 I am Keisuke Kawahara, a Ph.D. student at Yokohama National University, Japan.
 My interests include integrated circuit design, silicon photonics, optical communication, microwave theory, and signal processing.
 
-### 🎓 Education
-
-- **April 2016 – March 2020**: Bachelor of Electrical Engineering, Tokyo University of Science, Noda, Chiba, Japan
-- **April 2020 – March 2022**: Master of Electrical Engineering, Tokyo University of Science, Noda, Chiba, Japan
-- **April 2022 – present**: Ph.D. in Progress, Yokohama National University, Yokohama, Kanagawa, Japan
-
 ### 🛠️ Chip Gallery
 
 #### Si Photonic Crystal Modulator
