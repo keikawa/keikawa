@@ -15,7 +15,7 @@ Achieving record low power consumption by optimizing the electrode impedance of 
 
 <img src="https://github.com/keikawa/keikawa/assets/37934321/0a788fc4-a56a-4eec-8b89-ca3c76d87f3c" alt="Analog Multiplexer (AMUX)" width="200">
 
-World's first demonstration of bandwidth tripling of a digital-to-analog converter using an analog multiplexer. ([📑IEEE T-MTT](https://doi.org/10.1109/TMTT.2022.3190480)) ([📑IEEE RWS](http://dx.doi.org/10.1109/RWS53089.2022.9719979))
+World's first demonstration of bandwidth tripling of digital-to-analog converters using an analog multiplexer. ([📑IEEE T-MTT](https://doi.org/10.1109/TMTT.2022.3190480)) ([📑IEEE RWS](http://dx.doi.org/10.1109/RWS53089.2022.9719979))
 
 #### Active Balun
 
