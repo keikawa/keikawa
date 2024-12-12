@@ -9,25 +9,25 @@ My interests include integrated circuit design, silicon photonics, optical commu
 
 <img src="https://github.com/user-attachments/assets/197a75e0-2dc5-4175-83d3-11f1a744abf7" alt="Si Photonic Crystal Modulator" width="150">
 
-Achieving record low power consumption by optimizing the electrode impedance of a photonic crystal slow-light optical modulator. [📑Optica (Open Access)](https://doi.org/10.1364/OPTICA.531372)  [📑OFC](http://dx.doi.org/10.1364/ofc.2024.m2d.5)
+Achieving record low power consumption by optimizing the electrode impedance of a photonic crystal slow-light optical modulator. [📄Optica (Open Access)](https://doi.org/10.1364/OPTICA.531372)  [📄OFC](http://dx.doi.org/10.1364/ofc.2024.m2d.5)
 
 #### Analog Multiplexer
 
 <img src="https://github.com/keikawa/keikawa/assets/37934321/0a788fc4-a56a-4eec-8b89-ca3c76d87f3c" alt="Analog Multiplexer (AMUX)" width="200">
 
-World's first demonstration of bandwidth tripling of digital-to-analog converters using an analog multiplexer. [📑IEEE T-MTT](https://doi.org/10.1109/TMTT.2022.3190480)  [📑IEEE RWS](http://dx.doi.org/10.1109/RWS53089.2022.9719979)
+World's first demonstration of bandwidth tripling of digital-to-analog converters using an analog multiplexer. [📄IEEE T-MTT](https://doi.org/10.1109/TMTT.2022.3190480)  [📄IEEE RWS](http://dx.doi.org/10.1109/RWS53089.2022.9719979)
 
 #### Active Balun
 
 <img src="https://github.com/keikawa/keikawa/assets/37934321/9ee94376-df53-490d-bfb3-57a3276ce3f3" alt="Active Balun" width="270">
 
-Active feedback technique simultaneously enables imbalance correction and bandwidth extension. [📑IEEE TCAS-I](https://doi.org/10.1109/TCSI.2023.3257089)  [📑IEEE MWSCAS](http://dx.doi.org/10.1109/MWSCAS47672.2021.9531759)
+Active feedback technique simultaneously enables imbalance correction and bandwidth extension. [📄IEEE TCAS-I](https://doi.org/10.1109/TCSI.2023.3257089)  [📄IEEE MWSCAS](http://dx.doi.org/10.1109/MWSCAS47672.2021.9531759)
 
 #### Distributed Amplifier
 
 <img src="https://github.com/keikawa/keikawa/assets/37934321/aa5208c0-3d57-4b71-93ee-fc7e6e1efe1f" alt="Differential Distributed Amplifier" width="200">
 
-Coupled inductors halve the chip footprint of a differential distributed amplifier. [📑IEICE TREL (Open Access)](http://dx.doi.org/10.1587/transele.2023MMP0006)  [📑IEEE ISCAS](http://dx.doi.org/10.1109/ISCAS51556.2021.9401302)
+Coupled inductors halve the chip footprint of a differential distributed amplifier. [📄IEICE TREL (Open Access)](http://dx.doi.org/10.1587/transele.2023MMP0006)  [📄IEEE ISCAS](http://dx.doi.org/10.1109/ISCAS51556.2021.9401302)
 
 #### Temperature Sensor
 
