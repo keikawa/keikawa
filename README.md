@@ -1,7 +1,7 @@
 ### 👋 Hi there
 
-I am Keisuke Kawahara, a Ph.D. student at Yokohama National University, Japan.
-My interests include integrated circuit design, silicon photonics, optical communication, microwave theory, and signal processing.
+I am Keisuke Kawahara, an Assistant Professor at Institute of Science Tokyo (formerly Tokyo Institute of Technology), Japan.
+My interests include high-speed electornic and photonic integrated circuit design.
 
 ### 🛠️ Chip Gallery
 
