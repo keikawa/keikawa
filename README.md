@@ -9,7 +9,7 @@ My interests include high-speed electornic and photonic integrated circuit desig
 
 <img src="https://github.com/user-attachments/assets/a97b7335-a690-4d65-b0c8-1c84ec267dca" alt="Integrated Silicon Photonics Transmitter" width="200">
 
-0.78-pJ/bit integrated optical transmitter for multi-terabit co-packaged optics enabled by electronics-photonic co-design. [📄IEEE JSTQE (Open Access)](https://doi.org/10.1109/jstqe.2025.364064)  [📄OECC PDP](https://doi.org/10.23919/OECC/PSC62146.2025.11110745)
+0.78-pJ/bit integrated optical transmitter for multi-terabit co-packaged optics enabled by electronics-photonic co-design. [📄IEEE JSTQE (Open Access)](https://doi.org/10.1109/JSTQE.2025.3640645)  [📄OECC PDP](https://doi.org/10.23919/OECC/PSC62146.2025.11110745)
 
 #### Si Photonic Crystal Optical Modulator
 
