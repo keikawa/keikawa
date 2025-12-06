@@ -9,19 +9,19 @@ My interests include high-speed electornic and photonic integrated circuit desig
 
 <img src="https://github.com/user-attachments/assets/a97b7335-a690-4d65-b0c8-1c84ec267dca" alt="Integrated Silicon Photonics Transmitter" width="200">
 
-0.78-pJ/bit integrated optical transmitter for multi-terabit co-packaged optics enabled by electronics-photonic co-design. [📄IEEE JSTQE (🔓)](https://doi.org/10.1109/JSTQE.2025.3640645)  [📄OECC PDP](https://doi.org/10.23919/OECC/PSC62146.2025.11110745)
+0.78-pJ/bit optical transmitter for multi-terabit co-packaged optics enabled by electronics-photonic co-design. [📄IEEE JSTQE (🔓)](https://doi.org/10.1109/JSTQE.2025.3640645)  [📄OECC PDP](https://doi.org/10.23919/OECC/PSC62146.2025.11110745)
 
 #### Si Photonic Crystal Optical Modulator
 
 <img src="https://github.com/user-attachments/assets/197a75e0-2dc5-4175-83d3-11f1a744abf7" alt="Si Photonic Crystal Modulator" width="150">
 
-Achieving record low power consumption by optimizing the electrode impedance of a photonic crystal slow-light optical modulator. [📄Optica (🔓)](https://doi.org/10.1364/OPTICA.531372)  [📄OFC](http://dx.doi.org/10.1364/ofc.2024.m2d.5)
+Achieving record low-power Si slow-light modulator by optimizing the electrode impedance. [📄Optica (🔓)](https://doi.org/10.1364/OPTICA.531372)  [📄OFC](http://dx.doi.org/10.1364/ofc.2024.m2d.5)
 
 #### Analog Multiplexer
 
 <img src="https://github.com/keikawa/keikawa/assets/37934321/0a788fc4-a56a-4eec-8b89-ca3c76d87f3c" alt="Analog Multiplexer (AMUX)" width="200">
 
-World's first demonstration of bandwidth tripling of digital-to-analog converters using an analog multiplexer. [📄IEEE T-MTT](https://doi.org/10.1109/TMTT.2022.3190480)  [📄IEEE RWS](http://dx.doi.org/10.1109/RWS53089.2022.9719979)
+World's first demonstration of bandwidth tripling of digital-to-analog converters. [📄IEEE T-MTT](https://doi.org/10.1109/TMTT.2022.3190480)  [📄IEEE RWS](http://dx.doi.org/10.1109/RWS53089.2022.9719979)
 
 #### Active Balun
 
