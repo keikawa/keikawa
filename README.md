@@ -9,13 +9,13 @@ My interests include high-speed electornic and photonic integrated circuit desig
 
 <img src="https://github.com/user-attachments/assets/a97b7335-a690-4d65-b0c8-1c84ec267dca" alt="Integrated Silicon Photonics Transmitter" width="200">
 
-0.78-pJ/bit integrated optical transmitter for multi-terabit co-packaged optics enabled by electronics-photonic co-design. [📄IEEE JSTQE (Open Access)](https://doi.org/10.1109/JSTQE.2025.3640645)  [📄OECC PDP](https://doi.org/10.23919/OECC/PSC62146.2025.11110745)
+0.78-pJ/bit integrated optical transmitter for multi-terabit co-packaged optics enabled by electronics-photonic co-design. [📄IEEE JSTQE (🔓)](https://doi.org/10.1109/JSTQE.2025.3640645)  [📄OECC PDP](https://doi.org/10.23919/OECC/PSC62146.2025.11110745)
 
 #### Si Photonic Crystal Optical Modulator
 
 <img src="https://github.com/user-attachments/assets/197a75e0-2dc5-4175-83d3-11f1a744abf7" alt="Si Photonic Crystal Modulator" width="150">
 
-Achieving record low power consumption by optimizing the electrode impedance of a photonic crystal slow-light optical modulator. [📄Optica (Open Access)](https://doi.org/10.1364/OPTICA.531372)  [📄OFC](http://dx.doi.org/10.1364/ofc.2024.m2d.5)
+Achieving record low power consumption by optimizing the electrode impedance of a photonic crystal slow-light optical modulator. [📄Optica (🔓)](https://doi.org/10.1364/OPTICA.531372)  [📄OFC](http://dx.doi.org/10.1364/ofc.2024.m2d.5)
 
 #### Analog Multiplexer
 
@@ -33,7 +33,7 @@ Imbalance correction and bandwidth extension are simultaneously achieved by an a
 
 <img src="https://github.com/keikawa/keikawa/assets/37934321/aa5208c0-3d57-4b71-93ee-fc7e6e1efe1f" alt="Differential Distributed Amplifier" width="200">
 
-Coupled inductors halve the chip footprint of a differential distributed amplifier. [📄IEICE TREL (Open Access)](http://dx.doi.org/10.1587/transele.2023MMP0006)  [📄IEEE ISCAS](http://dx.doi.org/10.1109/ISCAS51556.2021.9401302)
+Coupled inductors halve the chip footprint of a differential distributed amplifier. [📄IEICE TREL (🔓)](http://dx.doi.org/10.1587/transele.2023MMP0006)  [📄IEEE ISCAS](http://dx.doi.org/10.1109/ISCAS51556.2021.9401302)
 
 #### Temperature Sensor
 
