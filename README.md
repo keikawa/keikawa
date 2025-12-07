@@ -1,7 +1,7 @@
 ### 👋 Hi there
 
-I am Keisuke Kawahara, an Assistant Professor at Institute of Science Tokyo (formerly Tokyo Institute of Technology), Japan.
-My interests include high-speed electornic and photonic integrated circuit design.
+I am Keisuke Kawahara, an Assistant Professor at Institute of Science Tokyo.
+I’m interested in electornic and photonic integrated circuit.
 
 ### 🛠️ Chip Gallery
 
