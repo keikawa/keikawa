@@ -4,59 +4,12 @@ I am Keisuke Kawahara, an Assistant Professor at Institute of Science Tokyo. I�
 
 ### 🛠️ Chip Gallery
 
-#### Integrated Silicon Photonics Transmitter
-
-<img src="https://github.com/user-attachments/assets/a97b7335-a690-4d65-b0c8-1c84ec267dca" alt="Integrated Silicon Photonics Transmitter" width="200">
-
-0.78-pJ/bit optical transmitter for multi-terabit co-packaged optics enabled by electronics-photonic co-design. [📄IEEE JSTQE (🔓)](https://doi.org/10.1109/JSTQE.2025.3640645)  [📄OECC PDP](https://doi.org/10.23919/OECC/PSC62146.2025.11110745)
-
-#### Si Photonic Crystal Optical Modulator
-
-<img src="https://github.com/user-attachments/assets/197a75e0-2dc5-4175-83d3-11f1a744abf7" alt="Si Photonic Crystal Modulator" width="150">
-
-Achieving record low-power Si slow-light modulator by optimizing the electrode impedance. [📄Optica (🔓)](https://doi.org/10.1364/OPTICA.531372)  [📄OFC](http://dx.doi.org/10.1364/ofc.2024.m2d.5)
-
-#### Analog Multiplexer
-
-<img src="https://github.com/keikawa/keikawa/assets/37934321/0a788fc4-a56a-4eec-8b89-ca3c76d87f3c" alt="Analog Multiplexer (AMUX)" width="200">
-
-World's first demonstration of bandwidth tripling of digital-to-analog converters. [📄IEEE T-MTT](https://doi.org/10.1109/TMTT.2022.3190480)  [📄IEEE RWS](http://dx.doi.org/10.1109/RWS53089.2022.9719979)
-
-#### Active Balun
-
-<img src="https://github.com/keikawa/keikawa/assets/37934321/9ee94376-df53-490d-bfb3-57a3276ce3f3" alt="Active Balun" width="270">
-
-Imbalance correction and bandwidth extension are simultaneously achieved by an active feedback technique. [📄IEEE TCAS-I](https://doi.org/10.1109/TCSI.2023.3257089)  [📄IEEE MWSCAS](http://dx.doi.org/10.1109/MWSCAS47672.2021.9531759)
-
-#### Distributed Amplifier
-
-<img src="https://github.com/keikawa/keikawa/assets/37934321/aa5208c0-3d57-4b71-93ee-fc7e6e1efe1f" alt="Differential Distributed Amplifier" width="200">
-
-Coupled inductors halve the chip footprint of a differential distributed amplifier. [📄IEICE TREL (🔓)](http://dx.doi.org/10.1587/transele.2023MMP0006)  [📄IEEE ISCAS](http://dx.doi.org/10.1109/ISCAS51556.2021.9401302)
-
-#### Temperature Sensor
-
-<img src="https://github.com/keikawa/keikawa/assets/37934321/48220bc9-70ce-4559-a445-4366c4f87275" alt="CMOS Temperature Sensor" width="240">
-
-The trimless temperature sensor is based on an open-source design rule and is freely reusable. [GitHub Repository](https://github.com/keikawa/temperature-sensor-OpenRule1um)
-
-#### Operational Amplifiers
-
-<img src="https://github.com/keikawa/keikawa/assets/37934321/bac48c37-9dc6-4ac8-a65d-e2768d07fd89" alt="CMOS Operational Amplifier" width="220">
-
-The class-AB CMOS operational amplifier consumes only 7.7 µA and provides a slew rate of 1 V/µs for a 1-nF load. Slides for [2021](https://www.ec.ict.e.titech.ac.jp/opamp/2021/contest-all-2021.pdf) and [2020](https://www.ec.ict.e.titech.ac.jp/opamp/2020/contest-all-2020.pdf)
-
-<!--
-**keikawa/keikawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | |
+| --- | --- |
+| <img src="https://github.com/user-attachments/assets/a97b7335-a690-4d65-b0c8-1c84ec267dca" alt="Integrated Silicon Photonics Transmitter" width="220"> | <strong>Integrated Silicon Photonics Transmitter</strong><br/><br/>0.78-pJ/bit optical transmitter for multi-terabit co-packaged optics enabled by electronics-photonics co-design.<br/><br/>[📄 IEEE JSTQE (🔓)](https://doi.org/10.1109/JSTQE.2025.3640645) · [📄 OECC PDP](https://doi.org/10.23919/OECC/PSC62146.2025.11110745) |
+| <img src="https://github.com/user-attachments/assets/197a75e0-2dc5-4175-83d3-11f1a744abf7" alt="Si Photonic Crystal Modulator" width="160"> | <strong>Si Photonic Crystal Optical Modulator</strong><br/><br/>Achieving record low-power Si slow-light modulator by optimizing the electrode impedance.<br/><br/>[📄 Optica (🔓)](https://doi.org/10.1364/OPTICA.531372) · [📄 OFC](http://dx.doi.org/10.1364/ofc.2024.m2d.5) |
+| <img src="https://github.com/keikawa/keikawa/assets/37934321/0a788fc4-a56a-4eec-8b89-ca3c76d87f3c" alt="Analog Multiplexer (AMUX)" width="220"> | <strong>Analog Multiplexer</strong><br/><br/>World's first demonstration of bandwidth tripling of digital-to-analog converters.<br/><br/>[📄 IEEE T-MTT](https://doi.org/10.1109/TMTT.2022.3190480) · [📄 IEEE RWS](http://dx.doi.org/10.1109/RWS53089.2022.9719979) |
+| <img src="https://github.com/keikawa/keikawa/assets/37934321/9ee94376-df53-490d-bfb3-57a3276ce3f3" alt="Active Balun" width="260"> | <strong>Active Balun</strong><br/><br/>Imbalance correction and bandwidth extension are simultaneously achieved by an active feedback technique.<br/><br/>[📄 IEEE TCAS-I](https://doi.org/10.1109/TCSI.2023.3257089) · [📄 IEEE MWSCAS](http://dx.doi.org/10.1109/MWSCAS47672.2021.9531759) |
+| <img src="https://github.com/keikawa/keikawa/assets/37934321/aa5208c0-3d57-4b71-93ee-fc7e6e1efe1f" alt="Differential Distributed Amplifier" width="220"> | <strong>Distributed Amplifier</strong><br/><br/>Coupled inductors halve the chip footprint of a differential distributed amplifier.<br/><br/>[📄 IEICE TREL (🔓)](http://dx.doi.org/10.1587/transele.2023MMP0006) · [📄 IEEE ISCAS](http://dx.doi.org/10.1109/ISCAS51556.2021.9401302) |
+| <img src="https://github.com/keikawa/keikawa/assets/37934321/48220bc9-70ce-4559-a445-4366c4f87275" alt="CMOS Temperature Sensor" width="220"> | <strong>Temperature Sensor</strong><br/><br/>The trimless temperature sensor is based on an open-source design rule and is freely reusable.<br/><br/>[GitHub Repository](https://github.com/keikawa/temperature-sensor-OpenRule1um) |
+| <img src="https://github.com/keikawa/keikawa/assets/37934321/bac48c37-9dc6-4ac8-a65d-e2768d07fd89" alt="CMOS Operational Amplifier" width="220"> | <strong>Operational Amplifiers</strong><br/><br/>The class-AB CMOS operational amplifier consumes only 7.7 µA and provides a slew rate of 1 V/µs for a 1-nF load.<br/><br/>Slides for [2021](https://www.ec.ict.e.titech.ac.jp/opamp/2021/contest-all-2021.pdf) and [2020](https://www.ec.ict.e.titech.ac.jp/opamp/2020/contest-all-2020.pdf) |
